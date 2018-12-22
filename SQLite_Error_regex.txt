@@ -1,0 +1,11 @@
+SQLite/JDBCDriver
+SQLite\.Exception
+(Microsoft|System)\.Data\.SQLite\.SQLiteException
+Warning.*?\W(sqlite_|SQLite3::)
+\[SQLITE_ERROR\]
+SQLite error \d+:
+sqlite3.OperationalError:
+SQLite3::SQLException
+org\.sqlite\.JDBC
+Pdo[./_\\]Sqlite
+SQLiteException
