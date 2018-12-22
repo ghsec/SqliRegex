@@ -1,0 +1,2 @@
+# SqliRegex
+Sqli Error regex
