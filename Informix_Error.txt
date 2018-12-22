@@ -1,0 +1,8 @@
+Warning.*?\Wifx_
+Exception.*?Informix
+Informix ODBC Driver
+ODBC Informix driver
+com\.informix\.jdbc
+weblogic\.jdbc\.informix
+Pdo[./_\\]Informix
+IfxException
