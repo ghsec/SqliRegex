@@ -1,0 +1,4 @@
+Dynamic SQL Error
+Warning.*?\Wibase_
+org\.firebirdsql\.jdbc
+Pdo[./_\\]Firebird
