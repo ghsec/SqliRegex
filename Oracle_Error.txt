@@ -1,0 +1,11 @@
+\bORA-\d{5}
+Oracle error
+Oracle.*?Driver
+Warning.*?\W(oci|ora)_
+quoted string not properly terminated
+SQL command not properly ended
+macromedia\.jdbc\.oracle
+oracle\.jdbc
+Zend_Db_(Adapter|Statement)_Oracle_Exception
+Pdo[./_\\](Oracle|OCI)
+OracleException
