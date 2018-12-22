@@ -1,0 +1,2 @@
+Exception (condition )?\d+\. Transaction rollback
+com\.frontbase\.jdbc
