@@ -1,4 +1,4 @@
-# SqliRegex
+# SQLi Regex
 -----------------------------------------------------
 Sqli Error regex for (Burp | ZAP).
 
