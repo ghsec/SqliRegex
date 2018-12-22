@@ -1,0 +1,11 @@
+SQL syntax.*?MySQL
+Warning.*?\Wmysqli?_
+MySQLSyntaxErrorException
+valid MySQL result
+check the manual that corresponds to your (MySQL|MariaDB) server version
+Unknown column '[^ ]+' in 'field list'
+MySqlClient\.
+com\.mysql\.jdbc
+Zend_Db_(Adapter|Statement)_Mysqli_Exception
+Pdo[./_\\]Mysql
+MySqlException
