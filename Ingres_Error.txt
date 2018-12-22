@@ -1,0 +1,4 @@
+Warning.*?\Wingres_
+Ingres SQLSTATE
+Ingres\W.*?Driver
+com\.ingres\.gcf\.jdbc
