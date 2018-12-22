@@ -1,0 +1,6 @@
+Warning.*?\Wsybase_
+Sybase message
+Sybase.*?Server message
+SybSQLException
+Sybase\.Data\.AseClient
+com\.sybase\.jdbc
