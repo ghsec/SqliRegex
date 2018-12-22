@@ -1,0 +1,3 @@
+Unexpected end of command in statement \["
+Unexpected token.*?in statement \[
+org\.hsqldb\.jdbc
