@@ -1,0 +1,4 @@
+SQL error.*?POS([0-9]+)
+Warning.*?\Wmaxdb_
+DriverSapDB
+com\.sap\.dbtech\.jdbc
