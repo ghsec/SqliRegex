@@ -1,0 +1,12 @@
+PostgreSQL.*?ERROR
+Warning.*?\Wpg_
+valid PostgreSQL result
+Npgsql\.
+PG::SyntaxError:
+org\.postgresql\.util\.PSQLException
+ERROR:\s\ssyntax error at or near
+ERROR: parser: parse error at or near
+PostgreSQL query failed
+org\.postgresql\.jdbc
+Pdo[./_\\]Pgsql
+PSQLException
