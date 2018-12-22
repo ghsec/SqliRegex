@@ -1,0 +1,8 @@
+CLI Driver.*?DB2
+DB2 SQL error
+\bdb2_\w+\(
+SQLSTATE.+SQLCODE
+com\.ibm\.db2\.jcc
+Zend_Db_(Adapter|Statement)_Db2_Exception
+Pdo[./_\\]Ibm
+DB2Exception
